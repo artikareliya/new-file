@@ -1,1 +1,1 @@
-this is utility file for 2st project for git update
+this is utility file for 2st project for git update after installetion git hub desktop
