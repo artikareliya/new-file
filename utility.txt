@@ -1,1 +1,1 @@
-this is utility file for 2st project for git
+this is utility file for 2st project for git update
